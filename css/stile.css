@@ -1,0 +1,39 @@
+h1.rosso{
+  color: red;
+  text-align: center;
+  font-family: sans-serif;
+}
+h2.blu{
+  color: blue;
+  font-family: sans-serif;
+}
+p.nero{
+  color: black;
+  font-family: serif;
+  font-size: 20px;
+}
+p.centro{
+  text-align: center;
+}
+img.dimensioni{
+  width: 270px;
+  height: auto;
+}
+img.dimensioni2{
+  position: relative;
+  left: 430px;
+  height: 150px;
+  width: auto;
+}
+img.dimensioni3{
+  width: 150px;
+  height: auto;
+}
+ol.stile1{
+  color: black;
+  font-family: fantasy;
+  font-size: 20px;
+}
+body{
+  background-image: url(https://marmotamaps.com/de/fx/wallpaper/download/faszinationen/Marmotamaps_Wallpaper_Inntal_Desktop_1920x1080.jpg);
+}
